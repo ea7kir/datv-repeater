@@ -1,5 +1,5 @@
-# SDR Repeater
-![diagram](doc/sdr-repeater-diagram.jpg)
+# DATV Repeater
+![diagram](doc/datv-repeater-diagram.jpg)
 
 ## Work in Progress
 - This project is NOT ready for use
